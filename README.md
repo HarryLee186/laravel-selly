@@ -1,4 +1,6 @@
-# Laravel Selly PHP API
+# Laravel Selly PHP API. Original package here: https://github.com/McCaulay/laravel-selly
+
+This package is designed to try and stay up to date with the more recent Laravel versions, as the above one seems to be unusable for Laravel 6 (and, presumably, above).
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/mccaulay/laravel-selly.svg?style=flat-square)](https://packagist.org/packages/mccaulay/laravel-selly)
 [![Build Status](https://img.shields.io/travis/mccaulay/laravel-selly/master.svg?style=flat-square)](https://travis-ci.org/mccaulay/laravel-selly)

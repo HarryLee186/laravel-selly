@@ -1,8 +1,7 @@
 {
-    "name": "mccaulay/laravel-selly",
+    "name": "harrylee186/laravel-selly",
     "description": "Laravel PHP library for Selly's API",
     "keywords": [
-        "mccaulay",
         "laravel-selly",
         "laravel",
         "selly",
@@ -16,14 +15,19 @@
         "payment",
         "payment processing"
     ],
-    "homepage": "https://github.com/McCaulay/laravel-selly",
+    "homepage": "https://github.com/HarryLee186/laravel-selly",
     "license": "MIT",
     "type": "library",
     "authors": [
         {
             "name": "McCaulay Hudson",
             "role": "Developer"
+        },
+        {
+            "name": "Harry Lee",
+            "role": "Developer"
         }
+
     ],
     "require": {
         "php": "^7.1",
